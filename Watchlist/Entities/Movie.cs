@@ -15,5 +15,6 @@ namespace Watchlist.Entities
         public string Status { get; set; }
         public double Rating { get; set; }
         public string Notes { get; set; }
+        public string PicturePath { get; set; }
     }
 }

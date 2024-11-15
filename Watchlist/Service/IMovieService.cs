@@ -4,15 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Watchlist.Entities;
+using Watchlist.Message;
+using Watchlist.Response;
 
 namespace Watchlist.Service
 {
     public interface IMovieService
     {
-        Task<List<Movie>> GetMovieListAsync();
-        Task<Movie> GetMovieByIdAsync(int id);
-        Task AddMovieAsync(Movie movie);
-        Task UpdateMovieAsync(Movie movie);
-        Task DeleteMovieAsync(int id);
+        Task<ServiceResponse<List<Movie>>> GetMoviesAsync();
+        Task<ServiceResponse<Movie>> GetMovieByIdAsync(int id);
+        Task<ServiceResponse<bool>> AddMovieAsync(Movie movie, string picturePath);
+        Task<ServiceResponse<bool>> UpdateMovieAsync(Movie movie, string picturePath);
+        Task<ServiceResponse<bool>> DeleteMovieAsync(int id);
     }
+
 }
