@@ -1,4 +1,3 @@
-C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.inputs
@@ -313,3 +312,5 @@ C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\n
 C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-ios\iossimulator-x64\Watchlist.pdb
 C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-ios\iossimulator-x64\Watchlist.genruntimeconfig.cache
 C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-ios\iossimulator-x64\ref\Watchlist.dll
+C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\bin\Debug\net8.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll
+C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|c:\\users\\artem\\university\\proj_web_les\\lab4-real\\watchlist\\watchlist\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|c:\\users\\artem\\university\\proj_web_les\\lab4-real\\watchlist\\watchlist\\viewmodel\\moviedataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\viewmodel\\moviedataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|c:\\users\\artem\\university\\proj_web_les\\lab4-real\\watchlist\\watchlist\\service\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\service\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|c:\\users\\artem\\university\\proj_web_les\\lab4-real\\watchlist\\watchlist\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|c:\\users\\artem\\university\\proj_web_les\\lab4-real\\watchlist\\watchlist\\response\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\response\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|c:\\users\\artem\\university\\proj_web_les\\lab4-real\\watchlist\\watchlist\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|c:\\users\\artem\\university\\proj_web_les\\lab4-real\\watchlist\\watchlist\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|c:\\users\\artem\\university\\proj_web_les\\lab4-real\\watchlist\\watchlist\\viewmodel\\moviesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\viewmodel\\moviesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|c:\\users\\artem\\university\\proj_web_les\\lab4-real\\watchlist\\watchlist\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|c:\\users\\artem\\university\\proj_web_les\\lab4-real\\watchlist\\watchlist\\pages\\moviedatapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\pages\\moviedatapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|c:\\users\\artem\\university\\proj_web_les\\lab4-real\\watchlist\\watchlist\\pages\\moviedatapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\pages\\moviedatapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|c:\\users\\artem\\university\\proj_web_les\\lab4-real\\watchlist\\watchlist\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FC0F85-177C-4033-BB5F-15B231CE2E9A}|Watchlist\\Watchlist.csproj|solutionrelative:watchlist\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +50,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceResponse.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\Response\\ServiceResponse.cs",
-              "RelativeDocumentMoniker": "Watchlist\\Response\\ServiceResponse.cs",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\Response\\ServiceResponse.cs",
-              "RelativeToolTip": "Watchlist\\Response\\ServiceResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MoviesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\ViewModel\\MoviesViewModel.cs",
+              "RelativeDocumentMoniker": "Watchlist\\ViewModel\\MoviesViewModel.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\ViewModel\\MoviesViewModel.cs",
+              "RelativeToolTip": "Watchlist\\ViewModel\\MoviesViewModel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T14:07:53.061Z",
+              "WhenOpened": "2024-11-15T15:15:57.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\Service\\MovieService.cs",
-              "RelativeDocumentMoniker": "Watchlist\\Service\\MovieService.cs",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\Service\\MovieService.cs",
-              "RelativeToolTip": "Watchlist\\Service\\MovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T13:57:42.66Z",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Watchlist\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\MainPage.xaml",
+              "RelativeToolTip": "Watchlist\\MainPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T15:13:54.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IMovieService.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\Service\\IMovieService.cs",
-              "RelativeDocumentMoniker": "Watchlist\\Service\\IMovieService.cs",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\Service\\IMovieService.cs",
-              "RelativeToolTip": "Watchlist\\Service\\IMovieService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Watchlist\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\MainPage.xaml.cs",
+              "RelativeToolTip": "Watchlist\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T13:54:32.699Z",
+              "WhenOpened": "2024-11-15T15:13:54.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\Entities\\Movie.cs",
-              "RelativeDocumentMoniker": "Watchlist\\Entities\\Movie.cs",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\Entities\\Movie.cs*",
-              "RelativeToolTip": "Watchlist\\Entities\\Movie.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MovieDataViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\ViewModel\\MovieDataViewModel.cs",
+              "RelativeDocumentMoniker": "Watchlist\\ViewModel\\MovieDataViewModel.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\ViewModel\\MovieDataViewModel.cs*",
+              "RelativeToolTip": "Watchlist\\ViewModel\\MovieDataViewModel.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T13:35:43.088Z",
+              "WhenOpened": "2024-11-15T15:30:01.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Watchlist\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\MauiProgram.cs",
+              "RelativeToolTip": "Watchlist\\MauiProgram.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:18:13.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieDataPage.xaml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\Pages\\MovieDataPage.xaml",
+              "RelativeDocumentMoniker": "Watchlist\\Pages\\MovieDataPage.xaml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\Pages\\MovieDataPage.xaml",
+              "RelativeToolTip": "Watchlist\\Pages\\MovieDataPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T15:28:45.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieDataPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\Pages\\MovieDataPage.xaml.cs",
+              "RelativeDocumentMoniker": "Watchlist\\Pages\\MovieDataPage.xaml.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\Pages\\MovieDataPage.xaml.cs",
+              "RelativeToolTip": "Watchlist\\Pages\\MovieDataPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:40:33.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Watchlist\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab4-real\\Watchlist\\Watchlist\\AppShell.xaml.cs",
+              "RelativeToolTip": "Watchlist\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:45:49.067Z",
               "EditorCaption": ""
             }
           ]

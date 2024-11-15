@@ -1,0 +1,30 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Watchlist.Pages.MovieDataPage"
+             Title="Movie Data">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Entry Placeholder="Title" Text="{Binding Movie.Title}" />
+            <Entry Placeholder="Genre" Text="{Binding Movie.Genre}" />
+
+            <!-- Date Picker for Release Year -->
+            <DatePicker Date="{Binding Movie.ReleaseYear}" />
+
+            <Entry Placeholder="Status" Text="{Binding Movie.Status}" />
+            <Entry Placeholder="Rating (1-10)" Text="{Binding Movie.Rating}" Keyboard="Numeric" />
+            <Editor Placeholder="Notes" Text="{Binding Movie.Notes}" />
+
+            <!-- Button to Select Image -->
+            <Button Text="Select Picture" Command="{Binding PickImageCommand}" />
+
+            <!-- Display Selected Image -->
+            <Image Source="{Binding Movie.PicturePath}" HeightRequest="150" Aspect="AspectFit" BackgroundColor="LightGray" />
+
+            <!-- Save Button -->
+            <Button Text="Save" Command="{Binding SaveCommand}" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

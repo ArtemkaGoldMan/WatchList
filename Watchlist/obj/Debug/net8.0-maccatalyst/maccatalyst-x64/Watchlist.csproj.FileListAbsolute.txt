@@ -300,3 +300,4 @@ C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\n
 C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Watchlist.pdb
 C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Watchlist.genruntimeconfig.cache
 C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\Watchlist.dll
+C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll

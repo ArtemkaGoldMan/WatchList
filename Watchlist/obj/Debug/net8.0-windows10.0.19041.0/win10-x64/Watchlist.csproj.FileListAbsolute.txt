@@ -178,3 +178,4 @@ C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\n
 C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\artem\University\Proj_Web_Les\lab4-real\Watchlist\Watchlist\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll

@@ -1,4 +1,8 @@
 ﻿using Microsoft.Extensions.Logging;
+using Watchlist.Message;
+using Watchlist.ViewModel;
+using Watchlist.Service;
+using Watchlist.Pages;
 
 namespace Watchlist
 {
@@ -15,8 +19,20 @@ namespace Watchlist
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
+            // Register services
+            builder.Services.AddSingleton<IMessageDialogService, MauiMessageDialogService>();
+            builder.Services.AddSingleton<IMovieService, MovieService>();
+
+            // Register ViewModels
+            builder.Services.AddSingleton<MoviesViewModel>();
+            builder.Services.AddTransient<MovieDataViewModel>();
+
+            // Register Pages
+            builder.Services.AddSingleton<MainPage>();
+            builder.Services.AddTransient<MovieDataPage>();
+
 #if DEBUG
-    		builder.Logging.AddDebug();
+            builder.Logging.AddDebug();
 #endif
 
             return builder.Build();
