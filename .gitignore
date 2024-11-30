@@ -1,0 +1,47 @@
+# Ignore the bin and obj directories
+/bin/
+/obj/
+
+# User-specific files
+.vs/
+.idea/
+.vscode/
+.DS_Store
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer directory
+_install/
+
+# User-specific files for Visual Studio for Mac
+.vscode/
+
+# Build output directories
+bin/
+obj/
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Core build files
+project.lock.json
+project.fragment.lock.json
+
+# VS Code settings
+.vscode/
+
+# Debugging and profiling files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
